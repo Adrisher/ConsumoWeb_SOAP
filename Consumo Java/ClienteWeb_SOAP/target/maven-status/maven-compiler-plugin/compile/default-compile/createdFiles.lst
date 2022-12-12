@@ -1,0 +1,12 @@
+ws\ObjectFactory.class
+ws\ProcesarPagoResponse.class
+ws\package-info.class
+ws\ProcesarPago.class
+ws\HelloResponse.class
+ws\LoguinResponse.class
+ws\WSOperaciones.class
+ws\Hello.class
+com\mycompany\clienteweb_soap\JAXRSConfiguration.class
+ws\Loguin.class
+ws\WSOperaciones_Service.class
+com\mycompany\clienteweb_soap\resources\JavaEE8Resource.class
